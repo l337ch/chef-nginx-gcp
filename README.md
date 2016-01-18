@@ -1,4 +1,3 @@
 # chef-nginx-gcp
 
-TODO: Enter the cookbook description here.
-
+##Deploying an application to google compute with Chef .
